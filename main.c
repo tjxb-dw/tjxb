@@ -10,7 +10,7 @@ int main()
 {
 	printf("hello world\n");
 	printf("hello\n");
-
+	printf("i love math\n");
 	return 0;
 }
 
