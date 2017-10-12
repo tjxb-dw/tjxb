@@ -11,6 +11,7 @@ int main()
 	printf("hello world\n");
 	printf("hello\n");
 	printf("i love math\n");
+	printf("unhappy");
 	return 0;
 }
 
